@@ -2,4 +2,4 @@ mereketengue DY
 
 papaya :v
 
-comentario random
+comentario deterministico
